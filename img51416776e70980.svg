@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="160px" viewBox="0 0 226 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-2">
+            <rect id="矩形" stroke="#F5A623" stroke-width="15" fill-rule="nonzero" x="7.5" y="7.5" width="211" height="145" rx="20"></rect>
+            <g id="图表-饼状图" transform="translate(41.000000, 44.000000)" fill="#F5A623">
+                <path d="M32.7546608,1.97260274 L32.7546608,37.7040096 C32.7546608,37.8093598 32.7948708,37.9147904 32.8752908,37.99513 C32.9557108,38.07555 33.061061,38.11576 33.1664112,38.11576 L70.0273973,38.11576 C70.0273973,57.2627951 53.9468568,72 34.7534193,72 C15.5590168,72 0,56.9980525 0,37.8510978 C0,18.7030976 13.908879,1.97260274 32.7547413,1.97260274 L32.7546608,1.97260274 Z" id="路径"></path>
+                <path d="M37.4794521,0 C56.4025019,7.95893269e-05 72,14.5850625 72,33.5342466 L37.8854036,33.5342466 C37.7815371,33.5342466 37.6775913,33.4944519 37.5983832,33.4149422 C37.5190958,33.3353528 37.4794521,33.2310908 37.4794521,33.1268288 L37.4794521,0 Z" id="路径"></path>
+            </g>
+            <rect id="矩形" fill="#F5A623" fill-rule="nonzero" x="131" y="80" width="40" height="10" rx="5"></rect>
+            <rect id="矩形" fill="#F5A623" fill-rule="nonzero" x="131" y="98" width="30" height="10" rx="5"></rect>
+        </g>
+    </g>
+</svg>
